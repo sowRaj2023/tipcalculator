@@ -1,0 +1,15 @@
+.image{
+    width: 100%;
+    height: 40vh;
+}
+.bg-container{
+    height: 130vh;
+}
+.input{
+    width: 60%;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: green;
+}
